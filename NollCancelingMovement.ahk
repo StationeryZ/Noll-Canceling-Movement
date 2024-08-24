@@ -121,5 +121,5 @@ return
     }
 return
 
-; Press Esc to exit the script
-Esc::ExitApp
+; Press F5 to exit the script
+F5::ExitApp
