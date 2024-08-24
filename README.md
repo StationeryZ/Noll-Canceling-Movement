@@ -1,7 +1,11 @@
-
 Noll Canceling Movement Script for AutoHotkey v1
 
-This script ensures smooth and precise movement in games by preventing simultaneous key presses from conflicting. It automatically releases one strafe key when another is pressed, allowing only one key per axis (horizontal: A/D, vertical: W/S) to be active at a time.
+This script optimizes in-game movement by preventing simultaneous key presses from conflicting. It ensures that only one directional key per axis (horizontal: A/D, vertical: W/S) is active at a time, automatically releasing the opposing key when another is pressed. This feature eliminates unresponsive movement, providing a smoother and more controlled experience.
 
-This setup prevents issues where holding both strafe keys can cause unresponsive movement. Ideal for achieving perfect strafing patterns. Press F5 to exit.
-Note that I am not responsible if you get kicked or banned while using this script
+Key Features:
+
+Prevents conflicting key presses on the same axis
+Enhances precision and responsiveness in movement
+Simple operation with F5 to exit
+Disclaimer: Use at your own risk. I am not responsible for any penalties resulting from its use.
+
